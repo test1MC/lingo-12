@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="es" xml:lang="es" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/randonie/AppData/Local/MadCap Software/A_lingo-7/.git/" SourceSourceControlDatabaseRoot="https://github.com/test1MC/flare-31.git/" SourceProjectGuid="64a1afce-f9da-4d25-a048-8d377dc3b0de" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="fe7b9676-1dd8-4e71-a145-066c43c72982">
+    <ProjectFile Source="Target/Image14.flprj" Target="Target/Image14.flprj" />
+</LingoProject>
